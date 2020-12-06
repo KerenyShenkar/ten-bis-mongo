@@ -2,7 +2,12 @@
   {
     "id": 1,
     "name": "Pottiaceae",
-    "location": [{ "lng": 113.657419, "lat": 23.092389 }],
+    "location": [
+        { 
+            "lng": 113.657419, 
+            "lat": 23.092389 
+        }
+    ],
     "stars": 1
   },
   {
